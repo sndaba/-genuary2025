@@ -9,3 +9,7 @@ According to the website, GENUARY is an artificially generated month of time whe
 
 ## [#genuary24](https://github.com/sndaba/genuary2025/tree/main/genuray24) - Geometric art - pick either a circle, rectangle, or triangle and use only that geometric shape.
 ![#genuray24](https://github.com/user-attachments/assets/f3233453-f81a-438b-95dd-33de4eb91a37)
+
+## [#genuray25](https://github.com/sndaba/genuary2025/tree/main/genuray25) - One line that may or may not intersect itself
+![#genuray25](https://github.com/user-attachments/assets/599916ff-852e-47c4-937d-1009cb773aac)
+
