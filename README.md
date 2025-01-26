@@ -19,4 +19,6 @@ According to the website, GENUARY is an artificially generated month of time whe
 ## [#genuray29](https://github.com/sndaba/genuary2025/tree/main/genuary29) - Grid-based graphic design.
 ![#genuray29](https://github.com/user-attachments/assets/e4370ff3-a116-4a8e-bc5a-fbc272fa5d9f)
 
+## [#genuray30]() - Abstract map.
+![#genuary30](https://github.com/user-attachments/assets/a0cef637-78d4-47f5-8e83-19d487dada82)
 
