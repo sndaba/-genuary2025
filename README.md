@@ -1,6 +1,9 @@
 # [# genuary2025](https://genuary.art/)</br>
 According to the website, GENUARY is an artificially generated month of time where we build code that makes beautiful things.</br></br>
 
+## [#genuary1](https://github.com/sndaba/genuary2025/tree/main/genuary01) - Vertical or horizontal lines only.
+![#genuary01](https://github.com/user-attachments/assets/ac5a7b26-813c-4e9e-bbcd-b98ecadfcfa8)
+
 ## [#genuary22](https://github.com/sndaba/genuary2025/tree/main/genuary22) - Gradients only.
 ![#genuary22](https://github.com/user-attachments/assets/574a6327-5e36-4dbf-8805-b20d9af6105d)
 
