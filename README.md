@@ -4,6 +4,9 @@ According to the website, GENUARY is an artificially generated month of time whe
 ## [#genuary1](https://github.com/sndaba/genuary2025/tree/main/genuary01) - Vertical or horizontal lines only.
 ![#genuary01](https://github.com/user-attachments/assets/ac5a7b26-813c-4e9e-bbcd-b98ecadfcfa8)
 
+## [#genuary7](https://github.com/sndaba/genuary2025/tree/main/genuary07) - Use software that is not intended to create art or images.
+![#genuary07](https://github.com/user-attachments/assets/9c9e274e-9367-49f5-b999-4b999a8318bc)
+
 ## [#genuary22](https://github.com/sndaba/genuary2025/tree/main/genuary22) - Gradients only.
 ![#genuary22](https://github.com/user-attachments/assets/574a6327-5e36-4dbf-8805-b20d9af6105d)
 
@@ -30,4 +33,7 @@ According to the website, GENUARY is an artificially generated month of time whe
 
 ## [#genuray30](https://github.com/sndaba/genuary2025/tree/main/genuary30) - Abstract map.
 ![#genuary30](https://github.com/user-attachments/assets/a0cef637-78d4-47f5-8e83-19d487dada82)
+
+## [#genuary31](https://github.com/sndaba/genuary2025/tree/main/genuary31) - Pixel sorting.
+![#genuray31](https://github.com/user-attachments/assets/12c5b98c-39a2-40b9-8708-2313312dd64f)
 
