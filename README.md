@@ -1,8 +1,11 @@
 # [# genuary2025](https://genuary.art/)</br>
 According to the website, GENUARY is an artificially generated month of time where we build code that makes beautiful things.</br></br>
 
-## [#genuary1](https://github.com/sndaba/genuary2025/tree/main/genuary01) - Vertical or horizontal lines only.
+## [#genuary01](https://github.com/sndaba/genuary2025/tree/main/genuary01) - Vertical or horizontal lines only.
 ![#genuary01](https://github.com/user-attachments/assets/ac5a7b26-813c-4e9e-bbcd-b98ecadfcfa8)
+
+## [#genuary06](https://github.com/sndaba/genuary2025/tree/main/genuary06) - Make a landscape using only primitive shapes.
+![#genuary06](https://github.com/user-attachments/assets/5450c060-3447-4976-a20f-9a2e5abfdead)
 
 ## [#genuary7](https://github.com/sndaba/genuary2025/tree/main/genuary07) - Use software that is not intended to create art or images.
 ![#genuary07](https://github.com/user-attachments/assets/9c9e274e-9367-49f5-b999-4b999a8318bc)
