@@ -1,4 +1,4 @@
-# [#genuary06](https://genuary.art/prompts#jan7)</br></br>
+# [#genuary06](https://genuary.art/prompts#jan6)</br></br>
 JAN. 6. (credit: Jonathan Barbeau)</br>
 Make a landscape using only primitive shapes.</br>
 
