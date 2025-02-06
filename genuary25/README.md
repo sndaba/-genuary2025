@@ -1,4 +1,4 @@
-# [#genuray25](https://genuary.art/prompts#jan25)</br></br>
+# [#genuary25](https://genuary.art/prompts#jan25)</br></br>
 JAN. 25. (credit: Bruce Holmer, Chris Barber (code_rgb), Heeey, Monokai)
 
 
