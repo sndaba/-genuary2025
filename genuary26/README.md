@@ -1,4 +1,4 @@
-# [#genuray26](https://genuary.art/prompts#jan26)</br></br>
+# [#genuary26](https://genuary.art/prompts#jan26)</br></br>
 JAN. 26. (credit: Melissa Wiederrecht)
 Share your results using the hashtags #genuary26 (this prompt) and #genuary!</br></br>
 Symmetry.</br>
